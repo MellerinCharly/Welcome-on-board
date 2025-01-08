@@ -5,6 +5,15 @@ Ci-joint les maquettes à réaliser :
 
 ![Maquettes](https://i.ibb.co/hgw57Cy/br-G9r5o-ONh-HFqm-PRBUy-ZCq-FXv-Pnjsi-EE.jpg)
 
-### Étapes et processus
+## Pré-requis
 
+HTML, CSS.
+
+## Étapes et processus
+
+- [x] Création de la nav-bar
+- [x] Création du footer
+- [x] Disposition des block
+- [x] Disposition des articles
+- [x] Responsive
 
