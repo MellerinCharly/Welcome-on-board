@@ -21,5 +21,9 @@ HTML, CSS.
 
 A partir d'un screenshot de la maquette, nous devions faire à l'identique la structure du site. 
 On a débuté le projet par le header et le footer. 
-Les articles sont venu après avec une mise en place grace à "flex" et "display grid".
-Pour finir utilisation des "media query" pour le resonsive.
+Les articles sont venu après, avec une mise en place grace à "flex" et "display grid".
+Pour finir, utilisation des "media query" pour le resonsive.
+
+## Fabriqué avec 
+
+VSCode (version 1.96)
