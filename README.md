@@ -27,3 +27,8 @@ Pour finir, utilisation des "media query" pour le resonsive.
 ## Fabriqué avec 
 
 VSCode (version 1.96)
+
+## Résultat
+
+![Résultat](https://i.ibb.co/hd3Jt22/Capture-d-e-cran-2025-01-09-a-09-38-15.png)
+![Résultat](https://i.ibb.co/tXv1T7G/Capture-d-e-cran-2025-01-09-a-09-38-29.png)
