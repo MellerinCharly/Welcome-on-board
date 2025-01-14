@@ -1,4 +1,4 @@
-# Projet WCS Welcome On Board
+# ~ Projet WCS Welcome On Board ~
 
 Pour débuter ce projet, nous devions faire à l'identique une maquette imposée par un client fictif.
 Ci-joint les maquettes à réaliser :
