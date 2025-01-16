@@ -9,7 +9,7 @@ Ci-joint les maquettes à réaliser :
 
 HTML, CSS.
 
-## Étapes et processus
+## ~ Étapes et processus ~
 
 - [x] Création de la nav-bar
 - [x] Création du footer
