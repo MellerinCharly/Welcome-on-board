@@ -17,7 +17,7 @@ HTML, CSS.
 - [x] Disposition des articles
 - [x] Responsive
 
-## Conception 
+## ~ Conception ~
 
 A partir d'un screenshot de la maquette, nous devions faire à l'identique la structure du site. 
 On a débuté le projet par le header et le footer. 
