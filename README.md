@@ -24,7 +24,7 @@ On a débuté le projet par le header et le footer.
 Les articles sont venu après, avec une mise en place grace à "flex" et "display grid".
 Pour finir, utilisation des "media query" pour le resonsive.
 
-## Fabriqué avec 
+## ~ Fabriqué avec ~
 
 VSCode (version 1.96)
 
